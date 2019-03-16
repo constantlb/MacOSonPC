@@ -13,5 +13,7 @@ CPU, GPU, Puce Wifi, Bluetooth, carte son, etc...
 Ce tutoriel vas vous permettre d'installer MacOS Mojave.
 Fonctionne uniquement avec les processeurs INTEL.
 
-### Installation
+### Configuration
 
+Configurer votre BIOS pour que l'installation de MacOS se déroule correctement.
+Désactiver l'option de sécurité : 'SECURE BOOT'
