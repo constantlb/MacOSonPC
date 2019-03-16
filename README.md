@@ -9,21 +9,30 @@ Installer le système propriétaire MacOS sur son PC est risqué. Je ne serais r
 
 Connaitre les informations de son PC :
 CPU, GPU, Puce Wifi, Bluetooth, carte son, etc...
+Voici un siteweb sympa qui référencie toutes les informations sur les dirérentes puces :
+[Wiki Chip](https://en.wikichip.org/wiki/intel/cpuid)
+
+Vous pouvez utiliser la commande `systeminfo` pour faitre apparaitre sur votre terminal les informations de votre système.
+
+Sur Windows vous pouvez aussi ouvrir le menu démarer, et taper System Information puis présser entrer. Une fenêtre détaillant l'enssemble de vos composants vas s'ouvrir. Vous pourez prendres notes des choses importantes comme le processeur ou votre carte graphique.
 
 Ce tutoriel vas vous permettre d'installer MacOS Mojave.
 Fonctionne uniquement avec les processeurs INTEL.
 
 ### Configuration
 
-Configurer votre BIOS pour que l'installation de MacOS se déroule correctement.
-Désactiver l'option de sécurité : `SECURE BOOT`
+#### Configurer votre BIOS pour que l'installation de MacOS se déroule correctement.
 
-Vous pouvez utiliser la commande `systeminfo` pour faitre apparaitre sur votre terminal les informations de votre système.
+Redémarer votre PC et appuyer sur la touche qui permet d'accéder au BIOS (F1 ou F2 ou F10 ou F12).
+
+Désactiver l'option de sécurité : `SECURE BOOT`
+Désactiver le démarrage rapide : `FAST BOOT`
 
 ### Installation
 
 Télécharger l'image du système avec le lien suivant : 
 [Télécharger MACOS10.14.3](https://drive.google.com/file/d/1malP3BGbC6coziRouv4mnqmJBcY1jFVY/view?usp=sharing)
+
 Télécharger un logiciel qui vous permetra de décomprésser et d'écrire l'image sur un disque, je vous conseile Etcher qui est disponnible sur Linux et Windows et parce qu'il est open source : 
 [Télécharger Etcher](https://www.balena.io/etcher)
 
