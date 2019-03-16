@@ -16,4 +16,4 @@ Fonctionne uniquement avec les processeurs INTEL.
 ### Configuration
 
 Configurer votre BIOS pour que l'installation de MacOS se déroule correctement.
-Désactiver l'option de sécurité : 'SECURE BOOT'
+Désactiver l'option de sécurité : `SECURE BOOT`
