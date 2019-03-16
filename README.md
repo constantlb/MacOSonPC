@@ -7,6 +7,8 @@ Installer le système propriétaire MacOS sur son PC est risqué. Je ne serais r
 
 ### Prérequis
 
+Disposais de 2 clés USB. 8Gb minimum.
+
 Connaitre les informations de son PC :
 CPU, GPU, Puce Wifi, Bluetooth, carte son, etc...
 Voici un siteweb sympa qui référencie toutes les informations sur les dirérentes puces :
@@ -18,6 +20,7 @@ Sur Windows vous pouvez aussi ouvrir le menu démarer, et taper Informations Sys
 
 Ce tutoriel vas vous permettre d'installer MacOS Mojave.
 Fonctionne uniquement avec les processeurs INTEL.
+Tutotiel tester sur un ThinkPad t470s i7
 
 ### Configuration
 
