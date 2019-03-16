@@ -10,5 +10,8 @@ Installer le système propriétaire MacOS sur son PC est risqué. Je ne serais r
 Connaitre les informations de son PC :
 CPU, GPU, Puce Wifi, Bluetooth, carte son, etc...
 
+Ce tutoriel vas vous permettre d'installer MacOS Mojave.
+Fonctionne uniquement avec les processeurs INTEL.
+
 ### Installation
 
