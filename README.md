@@ -14,7 +14,7 @@ Voici un siteweb sympa qui référencie toutes les informations sur les diréren
 
 Vous pouvez utiliser la commande `systeminfo` pour faitre apparaitre sur votre terminal les informations de votre système.
 
-Sur Windows vous pouvez aussi ouvrir le menu démarer, et taper System Information puis présser entrer. Une fenêtre détaillant l'enssemble de vos composants vas s'ouvrir. Vous pourez prendres notes des choses importantes comme le processeur ou votre carte graphique.
+Sur Windows vous pouvez aussi ouvrir le menu démarer, et taper Informations Système puis présser entrer. Une fenêtre détaillant l'enssemble de vos composants vas s'ouvrir. Vous pourez prendres notes des choses importantes comme le processeur ou votre carte graphique.
 
 Ce tutoriel vas vous permettre d'installer MacOS Mojave.
 Fonctionne uniquement avec les processeurs INTEL.
