@@ -25,15 +25,15 @@ Fonctionne uniquement avec les processeurs INTEL.
 
 Redémarer votre PC et appuyer sur la touche qui permet d'accéder au BIOS (F1 ou F2 ou F10 ou F12).
 
-Désactiver l'option de sécurité : `SECURE BOOT`
-Désactiver le démarrage rapide : `FAST BOOT`
+Désactiver l'option de sécurité : `SECURE BOOT`.
+Désactiver le démarrage rapide : `FAST BOOT`.
 
 ### Installation
 
-Télécharger l'image du système avec le lien suivant : 
+Télécharger l'image du système avec le lien suivant: 
 [Télécharger MACOS10.14.3](https://drive.google.com/file/d/1malP3BGbC6coziRouv4mnqmJBcY1jFVY/view?usp=sharing)
 
-Télécharger un logiciel qui vous permetra de décomprésser et d'écrire l'image sur un disque, je vous conseile Etcher qui est disponnible sur Linux et Windows et parce qu'il est open source : 
+Télécharger un logiciel qui vous permetra de décomprésser et d'écrire l'image sur un disque, je vous conseile le logiciel open source Etcher disponnible sur Linux et Windows: 
 [Télécharger Etcher](https://www.balena.io/etcher)
 
 Graver l'image de MacOS grâce à Etcher sur une clé USB d'une capacité minimun de 8Gb.
