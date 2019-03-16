@@ -24,7 +24,6 @@ Vous pouvez utiliser la commande `systeminfo` pour faitre apparaitre sur votre t
 
 Télécharger l'image du système avec le lien suivant : 
 [Télécharger MACOS10.14.3](https://drive.google.com/file/d/1malP3BGbC6coziRouv4mnqmJBcY1jFVY/view?usp=sharing)
-
 Télécharger un logiciel qui vous permetra de décomprésser et d'écrire l'image sur un disque, je vous conseile Etcher qui est disponnible sur Linux et Windows et parce qu'il est open source : 
 [Télécharger Etcher](https://www.balena.io/etcher)
 
