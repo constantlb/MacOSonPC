@@ -41,7 +41,7 @@ Télécharger un logiciel qui vous permetra de décomprésser et d'écrire l'ima
 
 Graver l'image de MacOS grâce à Etcher sur une clé USB d'une capacité minimun de 8Gb.
 
-##### Télécharger les fichiers Clover(Genre de GRUB modifié pour MacOS maison):
+#### Télécharger les fichiers Clover(Genre de GRUB modifié pour MacOS maison):
 
 >Télécharger seulement les fichiers correcondant à votre CPU
 
@@ -59,18 +59,18 @@ Graver l'image de MacOS grâce à Etcher sur une clé USB d'une capacité minimu
 * Clover pour CPU Intel gen 6 et ultérieur installé sur un PC portable:
 [Télécharger ici](https://epitechfr-my.sharepoint.com/:u:/r/personal/constant_loubier_epitech_eu/Documents/MacOs%20Mojave%2010.14.3/Clover%206+%20gen%20for%20notebooks.zip?csf=1&e=8tUO2L)
 
-##### Imprimer votre première clé USB de l'image systeme MacOS
+#### Imprimer votre première clé USB de l'image systeme MacOS
 
 Ouvrer Etcher: 
 * Choisisser l'image macos
 * Choisisser votre clé usb
 * Appuyer sur Flash!
 
-##### Déplacer les fichiers CLOVER dans la seconde clé USB
+#### Déplacer les fichiers CLOVER dans la seconde clé USB
 
 Prenez votre dossier qui correspond à votre CPU et déplacer le dans votre deuxième clé.
 
-##### Redémarer
+#### Redémarer
 
 Démarrer sur la clé qui contient l'image MacOS  
 Et cliquer sur Installer  
