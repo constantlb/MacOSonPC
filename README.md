@@ -28,7 +28,7 @@ Tutotiel tester sur un ThinkPad t470s i7
 
 Redémarer votre PC et appuyer sur la touche qui permet d'accéder au BIOS (F1 ou F2 ou F10 ou F12).
 
-Désactiver l'option de sécurité : `SECURE BOOT`\n
+Désactiver l'option de sécurité : `SECURE BOOT`  
 Désactiver le démarrage rapide : `FAST BOOT`
 
 ### Installation
