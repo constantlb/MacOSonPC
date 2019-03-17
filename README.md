@@ -43,7 +43,7 @@ Graver l'image de MacOS grâce à Etcher sur une clé USB d'une capacité minimu
 
 ##### Télécharger les fichiers Clover(Genre de GRUB modifié pour MacOS maison):
 
-`>Télécharger seulement les fichiers correcondant à votre CPU`
+>Télécharger seulement les fichiers correcondant à votre CPU
 
 * Clover pour CPU Intel générations 1 à 5 : Télécharger ces fichiers si votre processeur est d'une fammille:
     * 1ere gen: Nehalem (CPU Intel 2008)
