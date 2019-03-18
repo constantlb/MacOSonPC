@@ -9,6 +9,8 @@ Ce tutoriel détaille toutes les étapes pour installer MacOS Mojave.
 Vous n'avez pas besoin d'avoir un Mac à votre disposition pour réalisé ce tutoriel. Je vous fournis l'image de l'OS.  
 Fonctionne uniquement avec les processeurs INTEL.  
 Tutoriel testé sur un ThinkPad t470s i7-7500U.
+Tuto vidéo : https://www.youtube.com/watch?v=Ejh9JIMDwuY  
+Tuto réalisé pour les séances KytCat à [EPITECH](http://www.epitech.eu).  
 
 ### Prérequis
 
@@ -104,4 +106,5 @@ Déplacer les éléments vers le bureau.
 Vous trouverez à l'intérieur du dossier CLOVER, un fichier d'installation pour ce dernier. Exécutez le.   
 Déplacer les fichiers Clover dans votre système MacOS vers le dossier EFI, en remplaçant le dossier existant.  
 
-Félicitations vous avez maintenant créé un HackInToch!  
+Félicitations vous avez maintenant créé un HackInTosh!  
+
