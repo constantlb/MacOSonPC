@@ -13,7 +13,8 @@ Tutoriel testé sur un ThinkPad t470s i7-7500U.
 
 2 clés USB. 8Gb minimums.
 
-Connaitre les informations de son PC :CPU, GPU, puce Wifi, puce Bluetooth, carte son, etc...  
+Connaitre les informations de son PC: CPU, GPU, puce Wifi, puce Bluetooth, carte son, etc...  
+Tous les matériels ne sont pas compatibles avec MacOS, vous risquez d'avoir des problèmes de compatibilitées avec certains composants.  
 Surtout le nom et la génération de son CPU, par exemple le mien est le : `i7-7500U` , le chiffre qui suit le `-` correspond à la génération. J'ai donc un CPU INTEL I7 de 7e génération aussi appelée Kaby Lake.
 Voici un site web sympa qui référence toutes les informations sur les différents CPU:
 [Wiki Chip](https://en.wikichip.org/wiki/intel/cpuid)
