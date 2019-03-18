@@ -108,5 +108,4 @@ Déplacer les éléments vers le bureau.
 Vous trouverez à l'intérieur du dossier CLOVER, un fichier d'installation pour ce dernier. Exécutez le.   
 Déplacer les fichiers Clover dans votre système MacOS vers le dossier EFI, en remplaçant le dossier existant.  
 
-Félicitations vous avez maintenant créé un HackInTosh!  
-
+Félicitations vous venez de créer un HackInTosh!  
