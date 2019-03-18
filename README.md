@@ -92,9 +92,9 @@ Prenez votre dossier qui correspond à votre CPU et déplacer le dans votre deux
 #### Redémarer
 
 Démarrer votre PC sur la clé qui contient l'image MacOS en utilisant la touche `F12` pour afficher le menu des éléments bootables.  
-Choisissez `INSTALL MAC OS MOJAVE`
-Si vous êtes sur PC portables, appuyer sur la touche `o` -> `configs` -> `config 2`. `echap` x2, puis `entrer`.  
-Une fois arrivé sur l'interface graphique de l'installation du système:
+Choisissez `INSTALL MAC OS MOJAVE`  
+Attention si vous êtes sur un PC portable, appuyer sur la touche `o` -> `configs` -> `config 2`. `echap` x2, puis `entrer`.  
+Une fois arrivé sur l'interface graphique de l'installation du système:  
 Sélectionner `Dick Utility` pour choisir ou installer MacOS.  
 Puis seléctionner votre disque où vous souhaitez l'installer.  
 A la fin de l'installation, votre PC va redémarrer, refaite `F12`, sélectionner une nouvelle fois votre clé USB. Mais cette fois-ci déplacez-vous vers le mac os suivi par le nom de votre disque. N'oubliez pas : configs -> config 2 (pour les ordis portables).  
