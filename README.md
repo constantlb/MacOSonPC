@@ -6,6 +6,7 @@ How to install correctly MacOS on a PC
 Installer le système propriétaire MacOS sur son PC est risqué. Je ne serais responsable si à la suite de la réalisation de ces étapes votre ordinateur ne fonctionne plus!
 
 Ce tutoriel détaille toutes les étapes pour installer MacOS Mojave.  
+Vous n'avez pas besoin d'avoir un Mac à votre disposition pour réalisé ce tutoriel. Je vous fournis l'image de l'OS.  
 Fonctionne uniquement avec les processeurs INTEL.  
 Tutoriel testé sur un ThinkPad t470s i7-7500U.
 
@@ -13,13 +14,18 @@ Tutoriel testé sur un ThinkPad t470s i7-7500U.
 
 2 clés USB. 8Gb minimums.
 
+Un disque dur ou une partition libre de 50Go minimum, pour ne pas prendre de risque.  
+Pour gérer/modifier vos partitions je vous conseille de créer une clé USB Linux en LIVE et utiliser l'outil GNU: Gparted.  
+Si vous utilisez Gparted directement dans votre Linux installé sur une de vos partitions vous rencontrerez des erreurs. 
+
 Connaitre les informations de son PC: CPU, GPU, puce Wifi, puce Bluetooth, carte son, etc...  
 Tous les matériels ne sont pas compatibles avec MacOS, vous risquez d'avoir des problèmes de compatibilitées avec certains composants.  
 Surtout le nom et la génération de son CPU, par exemple le mien est le : `i7-7500U` , le chiffre qui suit le `-` correspond à la génération. J'ai donc un CPU INTEL I7 de 7e génération aussi appelée Kaby Lake.
 Voici un site web sympa qui référence toutes les informations sur les différents CPU:
 [Wiki Chip](https://en.wikichip.org/wiki/intel/cpuid)
 
-Vous pouvez utiliser la commande `systeminfo` pour faitre apparaitre sur votre terminal les informations de votre système.
+Sur Linux utiliser la commande `cat /proc/cpuinfo` pour faitre apparaitre sur votre terminal les informations de votre système.  
+Sur Windows utiliser la commande `systeminfo`.   
 
 Sur Windows vous pouvez aussi ouvrir le menu démarrer, et taper Informations Système puis presser entrer. Une fenêtre détaillant l'ensemble de vos composants vas s'ouvrir. Vous pourrez prendres note des choses importantes comme le processeur ou votre carte graphique.
 
@@ -46,6 +52,7 @@ Télécharger l'image du système avec le lien suivant:
 
 Télécharger un logiciel qui vous permetra de décomprésser et d'écrire l'image sur un disque, je vous conseile le logiciel open source Etcher disponnible sur Linux et Windows: 
 [Télécharger Etcher](https://www.balena.io/etcher)
+Vous pouvez aussi utiliser: [Unetbootin](https://unetbootin.github.io)(Linux, Windows, Mac), [Rufus](https://rufus.ie)(Windows), ou [MultiUSB](http://liveusb.info) (Linux).  
 
 Graver l'image de MacOS grâce à Etcher sur une clé USB d'une capacité minimun de 8Gb.
 
@@ -81,12 +88,12 @@ Prenez votre dossier qui correspond à votre CPU et déplacer le dans votre deux
 #### Redémarer
 
 Démarrer votre PC sur la clé qui contient l'image MacOS en utilisant la touche `F12` pour afficher le menu des éléments bootables.  
-Choissiser `INSTALL MAC OS MOJAVE`
-Si vous êtes sur PC portables, appuyer sur la toucher `o` -> `configs` -> `setup 2`. `echap` x2, puis `entrer`.  
-Une fois arriver sur l'interface graphique de l'installation du système :
-Séléctionner `Dick Utility` pour choisir ou installer MacOS.  
-Puis séléctioner votre disque ou vous souhaitez l'installer.  
-A la fin de l'installation, votre PC vas redémarer, refaite `F12`, sélectionner une nouvelle fois votre clé USB. Mais cette fois ci déplacer vous vers le mac os suivis par le nom de votre disque. N'oublier pas : configs -> setup 2 (pour les ordis portables).  
+Choisissez `INSTALL MAC OS MOJAVE`
+Si vous êtes sur PC portables, appuyer sur la touche `o` -> `configs` -> `setup 2`. `echap` x2, puis `entrer`.  
+Une fois arrivé sur l'interface graphique de l'installation du système:
+Sélectionner `Dick Utility` pour choisir ou installer MacOS.  
+Puis seléctionner votre disque où vous souhaitez l'installer.  
+A la fin de l'installation, votre PC va redémarrer, refaite `F12`, sélectionner une nouvelle fois votre clé USB. Mais cette fois-ci déplacez-vous vers le mac os suivi par le nom de votre disque. N'oubliez pas : configs -> setup 2 (pour les ordis portables).  
 Terminer l'installation.
 
 #### Déplacer les fichiers Clover
@@ -94,7 +101,7 @@ Terminer l'installation.
 Une fois sur MacOS.  
 Branchez votre seconde clé usb.  
 Déplacer les éléments vers le bureau.  
-Vous trouverez à l'intérieur du dossier CLOVER, un fichier d'installation pour ce dernier. Exécuter le.   
-Déplacer les fhichiers Clover dans votre système MacOS vers le dossier EFI, en remplacant le dossier existant.  
+Vous trouverez à l'intérieur du dossier CLOVER, un fichier d'installation pour ce dernier. Exécutez le.   
+Déplacer les fichiers Clover dans votre système MacOS vers le dossier EFI, en remplaçant le dossier existant.  
 
-Félicitations vous avez maintenant créer un HackInToch!  
+Félicitations vous avez maintenant créé un HackInToch!  
