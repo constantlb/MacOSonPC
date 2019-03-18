@@ -22,7 +22,7 @@ Si vous utilisez Gparted directement dans votre Linux installé sur une de vos p
 
 Connaitre les informations de son PC: CPU, GPU, puce Wifi, puce Bluetooth, carte son, etc...  
 Tous les matériels ne sont pas compatibles avec MacOS, vous risquez d'avoir des problèmes de compatibilitées avec certains composants.  
-Surtout le nom et la génération de son CPU, par exemple le mien est le : `i7-7500U` , le chiffre qui suit le `-` correspond à la génération. J'ai donc un CPU INTEL I7 de 7e génération aussi appelée Kaby Lake.
+Le plus important est le nom et la génération de votre CPU, par exemple le mien est le: `i7-7500U`, le chiffre qui suit le `-` correspond à sa génération. J'ai donc un CPU INTEL i7 de 7e génération aussi appelée Kaby Lake.
 Voici un site web sympa qui référence toutes les informations sur les différents CPU:
 [Wiki Chip](https://en.wikichip.org/wiki/intel/cpuid)
 
@@ -35,7 +35,7 @@ Sur Windows vous pouvez aussi ouvrir le menu démarrer, et taper Informations Sy
 
 #### Configurer votre BIOS pour que l'installation de MacOS se déroule correctement.
 
-Redémarrer votre PC et appuyer sur la touche qui permet d'accéder au BIOS (F1 ou F2 ou F10 ou F12).
+Redémarrer votre PC et appuyer sur la touche qui permet d'accéder au BIOS (F12).
 
 Désactiver l'option de sécurité: `SECURE BOOT`  
 Désactiver le démarrage rapide: `FAST BOOT`  
@@ -43,9 +43,11 @@ Désactiver la virtualisation: Tout les paramètres
   
 Activer le démarrage UEFI sur USB: `USB UEFI SUPPORT`  
 Activer les deux modes de démarrage si disponnible sur votre BIOS: efi et classique: `BOTH (UEFI & LEGACY)`  
-Activer la liste des éléments bootables via F12: `BOOT DEVICE LIST`  
+Activer la liste des éléments bootables via F12: `BOOT DEVICE LIST` 
   
 > En Anglais désactivé se dit: `Disabled` et Activer se dit `Enabled`  
+
+Quitter en enregistrant!
 
 ### Installation
 
